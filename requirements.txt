@@ -1,0 +1,18 @@
+## Errors caused of Packages for different OS Verions
+## Feel free to uncomment specified lines
+
+send2trash
+requests
+beautifulsoup4
+selenium
+openpyxl
+PyPDF2
+python-docx #(install python-docx, not docx)
+imapclient
+pyzmail
+twilio
+pillow
+pyobjc-core #(on OS X only)
+pyobjc #(on OS X only)
+python3-xlib #(on Linux only)
+pyautogui
